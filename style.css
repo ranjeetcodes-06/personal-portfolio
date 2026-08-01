@@ -454,10 +454,12 @@ body {
     /* Skills */
 
     .skill {
-        padding: 60px 20px;
+        min-height:auto;
+        padding: 50px 20px;
     }
 
     .skill h2 {
+        margin-bottom:30px;
         font-size: 30px;
     }
 
