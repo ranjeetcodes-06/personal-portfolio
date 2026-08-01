@@ -310,15 +310,9 @@ body {
 =========================== */
 
 .contact{
-    min-height:50vh;
     background:#f8fafc;
     padding:70px 40px;
     text-align:center;
-
-    display:flex;
-    flex-direction:column;
-    justify-content:center;
-    align-items:center;
 }
 
 .contact h2{
@@ -474,6 +468,11 @@ body {
         min-height:auto;
         padding: 40px 20px;
     }
+   
+   #projects h2{
+      font-size: 30px;
+      margin-bottom: 30px;
+   }
 
     .cards {
         flex-direction: column;
@@ -496,7 +495,6 @@ body {
     }
 
    .contact {
-      min-height:auto;
       padding: 40px 20px;
    }
 
