@@ -471,7 +471,8 @@ body {
     /* Projects */
 
     #projects {
-        padding: 60px 20px;
+        min-height:auto;
+        padding: 50px 20px;
     }
 
     .cards {
@@ -494,6 +495,15 @@ body {
 
     }
 
+   .contact {
+      min-height:auto;
+      padding: 50px 20px;
+   }
+
+   .contact h2{
+      margin-bottom:20px;
+   }
+   
     /* Footer */
 
     .footer {
