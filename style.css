@@ -445,6 +445,11 @@ body {
         font-size: 16px;
     }
 
+   .container {
+      width: 90%;
+      margin: 0 auto;
+   }
+
     /* Skills */
 
     .skill {
